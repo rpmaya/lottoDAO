@@ -1,4 +1,4 @@
-# lottoDAO
+# DeLotto.fi
 ## Get Started
 - Buy NUR by Users in DEX(for example 100)
 - Stake NUR by Users in our Web (at least 10)
