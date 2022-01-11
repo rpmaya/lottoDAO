@@ -203,7 +203,7 @@ function Simulator() {
     return (
         <div className="App">
           <header className="App-header">
-                <h1>LottoDAO</h1>
+                <h1>DeLotto.fi</h1>
 
                 <table className="center" border="1">
                         <tr>
